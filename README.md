@@ -12,7 +12,7 @@ Os dois dashboards abaixo foram desenvolvidos a partir da **mesma base de dados*
 
 | Antes (Dashboard Inicial) | Depois (Dashboard Melhorado) |
 |---------------------------|-----------------------------|
-| ![Dashboard Inicial](./assets/dashboard-inicial.png) | ![Dashboard Melhorado](./assets/dashboard-melhorado.png) |
+| ![Dashboard Inicial](https://github.com/RaquelDaud180/Power_BI/blob/main/WhatsApp%20Image%202025-04-10%20at%2016.33.09%20(1).jpeg) | ![Dashboard Melhorado](https://github.com/RaquelDaud180/Power_BI/blob/main/WhatsApp%20Image%202025-04-10%20at%2016.33.09.jpeg) |
 
 Na **segunda versão** (que eu desenvolvi), trabalhei:
 - Melhoria do **layout** e disposição das informações;
