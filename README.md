@@ -56,14 +56,4 @@ Esse mindset de **pensar fora da caixa**, revisar o que já foi feito e buscar m
 - 📊 Dashboard não é só estética, é **usabilidade e tomada de decisão**.
 - 🤝 Unir Back-End + Dados + Design é o que entrega soluções completas.
 
----
 
-## 🔖 Hashtags do Projeto
-`#PowerBI` `#BackendNaPrática` `#AutomaçãoDeProcessos` `#VisualizaçãoDeDados` `#BusinessIntelligence`  
-`#TechComPropósito` `#AnáliseDeDados` `#DashboardDesign` `#RaciocínioLógico` `#DesenvolvimentoDeSoluções`  
-`#DadosQueContamHistórias` `#DataDriven` `#MulheresNaTecnologia` `#BackEndLife`
-
----
-
-## 🙌 Créditos
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
